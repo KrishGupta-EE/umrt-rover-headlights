@@ -18,14 +18,3 @@ Custom high-power 24V LED headlight driver module designed for the University of
 ## Schematic
 
 ![UMRT Rover Headlight Schematic](Headlights_schematic.png)
-
-## 📂 Repository Structure
-
-```text
-umrt-rover-headlights/
-├── hardware/
-│   ├── schematic/       # KiCad schematic files (.kicad_sch)
-│   ├── pcb/             # PCB layout and board files (.kicad_pcb)
-│   └── footprints/      # Custom UMRT & component libraries (.pretty)
-├── documentation/       # Datasheets, pinouts, and design notes
-└── README.md
