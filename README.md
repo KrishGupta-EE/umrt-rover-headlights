@@ -15,6 +15,10 @@ Custom high-power 24V LED headlight driver module designed for the University of
 
 ---
 
+## Schematic
+
+![UMRT Rover Headlight Schematic](Headlights_schematic.png)
+
 ## 📂 Repository Structure
 
 ```text
