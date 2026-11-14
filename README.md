@@ -2,6 +2,8 @@
 
 Custom high-power 24V LED headlight driver module designed for the University of Manitoba Robotics Team (UMRT) rover platform. This circuit provides robust switching control using a low-voltage control signal to drive high-draw 24V auxiliary lighting through heavy-duty XT60 power connections.
 
+> 🚧 **Status:** Active Development — Currently in PCB schematic and layout phase for the UMRT rover.
+
 ---
 
 ## 🛠️ System Architecture & Specifications
